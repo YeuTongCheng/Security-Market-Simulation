@@ -7,6 +7,7 @@ own individual decision-making processes and calculate net by summing each agent
 individual trading amount.
 
 Define three different heuristics that must be implement in Agent class
+
 The NoiseAgent represents random buying and selling in the market.
 The TrendAgent looks at its previously-observed price and buys if the previous price is lower
 than the current price and sells if the previous price is higher.
