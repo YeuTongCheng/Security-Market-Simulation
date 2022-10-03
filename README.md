@@ -1,4 +1,7 @@
 # Security-Market-Simulation
+
+Assignment from "UCB MFE C++ Preprogram"
+
 Simulate a market where 3 agents decide whether to buy or sell securities based on their
 own individual decision-making processes and calculate net by summing each agent’s
 individual trading amount.
